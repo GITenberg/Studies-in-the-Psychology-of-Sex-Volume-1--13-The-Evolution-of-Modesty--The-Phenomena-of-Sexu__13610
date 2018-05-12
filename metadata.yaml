@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2654
     wikipedia: http://en.wikipedia.org/wiki/Havelock_Ellis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13610#Studies-in-the-Psychology-of-Sex-Volume-1--13-The-Evolution-of-Modesty--The-Phenomena-of-Sexu_
 gutenberg_bookshelf:
 - Banned Books from Anne Haight's list
 - Psychology
