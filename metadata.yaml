@@ -1,0 +1,33 @@
+_repo: Studies-in-the-Psychology-of-Sex-Volume-1--13-The-Evolution-of-Modesty--The-Phenomena-of-Sexu__13610
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, Havelock
+    alias: Ellis, Henry Havelock
+    birthdate: 1859
+    deathdate: 1939
+    gutenberg_agent_id: '2654'
+    url: http://www.gutenberg.org/2009/agents/2654
+    wikipedia: http://en.wikipedia.org/wiki/Havelock_Ellis
+description: ''
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Psychology
+gutenberg_issued: '2004-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex'
+- !lcc 'HQ'
+- !lcsh 'Sex (Psychology)'
+title: "Studies in the Psychology of Sex, Volume 1\r\nThe Evolution of Modesty; The\
+  \ Phenomena of Sexual Periodicity; Auto-Erotism"
+url: http://www.gutenberg.org/ebooks/13610
